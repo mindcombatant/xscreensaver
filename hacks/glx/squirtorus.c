@@ -12,7 +12,7 @@
 
 #define DEFAULTS	"*delay:	30000  \n" \
 			"*count:        16      \n" \
-			"*groundColor:  #FFBE86\n" \
+			"*groundColor:  #FFB128\n" \
 			"*holeColor:    #FF0000\n" \
 			"*starColor:    #CCCC00\n" \
 			"*showFPS:      False  \n" \
